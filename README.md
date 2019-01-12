@@ -10,7 +10,11 @@ https://www.youtube.com/watch?v=lOIJIk_maO4
 # How To Delete
 Go to "Shell:Startup", and destroy WinSys32DllMenager.exe
 
-# Conclusion
+# Common Problems
+- Key logs, are based on keyboard events, if you'd  like to read them, first you need to del all trash tekst, and read every second letter.
+- Emails, are spending while victim press 'enter', so it can be Problem If he will press key hardly ever. My Internet Connection Brake after playing 1 hour in osu.
+
+# Nothing Special
 I Know its casual, and easy to write this kind of code, but its my first piece od code, so i would like to share it.
 
 If you enjoyed it, send feedback!
